@@ -1,0 +1,89 @@
+{
+  "main": {
+    "name":"Rinshin Jalal",
+    "occupation":"Fullstack Developer",
+    "description":"High School Student.I program webapps.It's my passion!",
+    "image":"profilepics.jpg",
+    "bio":"Am Rinshin, I make fullstack webapps using  Django(Backend devs) and ReactJs(Frontend devs). Need Website Contact Me!",
+    "contactmessage":"Contact Me",
+    "email": "rerinu132@gmail.com",
+
+    "address":{
+      "street":"Karuvarakundu",
+      "city":"Malappuram",
+      "state":"Kerala",
+      "zip": "676523"
+    },
+    "website": "/",
+    "resumedownload":"/download",
+    "social":[
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/124rinshin_jalal",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/Rinz-Code",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"HighSchool Student/Developer",
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Django",
+        "level":"95%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Postgresql",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Gokul-Google Clone",
+        "category":"Clone Famous Apps",
+        "image":"gokul.png",
+        "url":"https://clone-bb08a.web.app/"
+      },
+      {
+        "title":"PKHMCT-Charity trust website",
+        "category":"Charity trust website",
+        "image":"pkhmct.png",
+        "url":"https://pkhmct.herokuapp.com"
+      },
+      {
+        "title":"Portfolio",
+        "category":"Portfolio/Personal Blog",
+        "image":"portfolio.png",
+        "url":"/#home"
+      },
+      {
+        "title":"ISS-Tracker -Now Offline Github",
+        "category":"Space",
+        "image":"APP.png",
+        "url":"https://github.com/Rinz-Code/ISS-Tracker"
+      }
+    ]
+  }
+}
